@@ -1,0 +1,14 @@
+{
+  "id": "wwv-plugin-aviation-adsb",
+  "name": "Aviation (ADSB.lol)",
+  "version": "1.0.0",
+  "description": "Real-time civilian/commercial aircraft tracking via adsb.lol",
+  "type": "data-layer",
+  "format": "bundle",
+  "trust": "unverified",
+  "capabilities": ["data:own", "network:fetch", "ui:detail-panel"],
+  "category": "aviation",
+  "icon": "✈",
+  "entry": "dist/index.js",
+  "compatibility": { "worldwideview": ">=1.0.0" }
+}

@@ -7,7 +7,7 @@
  * All core plugins are now installed via marketplace defaults.
  */
 export const DEFAULT_PLUGIN_IDS = [
-    "aviation",
+    "wwv-plugin-aviation-adsb",
     "maritime",
     "military-aviation",
     "wildfire",

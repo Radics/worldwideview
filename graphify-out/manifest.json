@@ -1,0 +1,1354 @@
+{
+  "/opt/data/worldwideview/test_airport_bundle.mjs": {
+    "mtime": 1778539431.1557102,
+    "hash": "3f4f830f85027f18efbd160b74b6484b"
+  },
+  "/opt/data/worldwideview/test.js": {
+    "mtime": 1778539431.1557102,
+    "hash": "1a6e222c7a5b4db7530c5fd421f0fd0d"
+  },
+  "/opt/data/worldwideview/vitest.config.ts": {
+    "mtime": 1778539431.21371,
+    "hash": "8500f11c8dc72c6b4876081956eafea0"
+  },
+  "/opt/data/worldwideview/delete-dups.js": {
+    "mtime": 1778539431.0837107,
+    "hash": "6aa97c9d2e6b30e55381b6c2b7dbe6a0"
+  },
+  "/opt/data/worldwideview/prisma.config.ts": {
+    "mtime": 1778539431.1107106,
+    "hash": "6e1fc35b3ef13ead5ed7e659d86dda5c"
+  },
+  "/opt/data/worldwideview/next.config.ts": {
+    "mtime": 1778539431.1067104,
+    "hash": "09413511dceae1064556184bd12c2592"
+  },
+  "/opt/data/worldwideview/setup.ps1": {
+    "mtime": 1778539431.1267104,
+    "hash": "88903d2014d4126756c2a09a4da72720"
+  },
+  "/opt/data/worldwideview/local-dev.ps1": {
+    "mtime": 1778539431.0877106,
+    "hash": "19432c16313160bf165e13b9b15543db"
+  },
+  "/opt/data/worldwideview/dump_plugins.py": {
+    "mtime": 1778539431.0877106,
+    "hash": "749dbe7fc691bd32ef5fddf8e9bb2a4f"
+  },
+  "/opt/data/worldwideview/dump-plugins.js": {
+    "mtime": 1778539431.0877106,
+    "hash": "77fe3880fbe546908db6d87958213233"
+  },
+  "/opt/data/worldwideview/tmp/fetch_mines.mjs": {
+    "mtime": 1778539431.21171,
+    "hash": "da5b31af0effd892f6d26b05deb7cc19"
+  },
+  "/opt/data/worldwideview/tmp/test-insecam-pg.js": {
+    "mtime": 1778539431.21371,
+    "hash": "49ea1e898dcd4e0667be298379298d1e"
+  },
+  "/opt/data/worldwideview/tmp/test-firms.mjs": {
+    "mtime": 1778539431.21371,
+    "hash": "6ac73a168ce801cc07909e243a474459"
+  },
+  "/opt/data/worldwideview/tmp/test-insecam2.js": {
+    "mtime": 1778539431.21371,
+    "hash": "955ac07f3f778b1a2094ca9f773abcfe"
+  },
+  "/opt/data/worldwideview/tmp/test-insecam.js": {
+    "mtime": 1778539431.21371,
+    "hash": "2e3431dedefd6a7bf084192d75690432"
+  },
+  "/opt/data/worldwideview/tmp/convert_embassies.mjs": {
+    "mtime": 1778539431.1557102,
+    "hash": "60bb16f2f9ba4b6a3627736aad399d10"
+  },
+  "/opt/data/worldwideview/tmp/test-ais-raw.js": {
+    "mtime": 1778539431.21371,
+    "hash": "3168cf95f5a4e18aa204c1e1a8e0bc27"
+  },
+  "/opt/data/worldwideview/tmp/test-insecam-bulk.js": {
+    "mtime": 1778539431.21371,
+    "hash": "84adb1d9a133b4ff876cef574360a6ef"
+  },
+  "/opt/data/worldwideview/tmp/test-ais.js": {
+    "mtime": 1778539431.21371,
+    "hash": "edec9808bb833d237ff466ec521f8827"
+  },
+  "/opt/data/worldwideview/tmp/convert_nuclear.mjs": {
+    "mtime": 1778539431.1557102,
+    "hash": "0ba47ef59fe032d7042d57185526bb1a"
+  },
+  "/opt/data/worldwideview/src/instrumentation.ts": {
+    "mtime": 1778539431.1507103,
+    "hash": "094de977a40dd90bcde64144c1c0c3a9"
+  },
+  "/opt/data/worldwideview/src/proxy.ts": {
+    "mtime": 1778539431.1547103,
+    "hash": "cfdd79c8b89f0ddda985ebbe07a59e9a"
+  },
+  "/opt/data/worldwideview/src/sentry.server.config.ts": {
+    "mtime": 1778539431.1547103,
+    "hash": "9281ef40835a152d3b375f19bca26d12"
+  },
+  "/opt/data/worldwideview/src/sentry.edge.config.ts": {
+    "mtime": 1778539431.1547103,
+    "hash": "9281ef40835a152d3b375f19bca26d12"
+  },
+  "/opt/data/worldwideview/src/sentry.client.config.ts": {
+    "mtime": 1778539431.1547103,
+    "hash": "f27c7edcbeb7fb4badc65e5144e3544d"
+  },
+  "/opt/data/worldwideview/src/types/adsense.d.ts": {
+    "mtime": 1778539431.1557102,
+    "hash": "37ccafa36eb2ae1cb1d02f0f264ea2a2"
+  },
+  "/opt/data/worldwideview/src/types/umami.d.ts": {
+    "mtime": 1778539431.1557102,
+    "hash": "7558f201f5a1461c4975ed221ed501c0"
+  },
+  "/opt/data/worldwideview/src/types/geojson.ts": {
+    "mtime": 1778539431.1557102,
+    "hash": "f4f93b9d67b87d9b5ec9d3bfff1c0514"
+  },
+  "/opt/data/worldwideview/src/core/edition.test.ts": {
+    "mtime": 1778539431.1437104,
+    "hash": "7a84ebacbe6ffb9abd3f315c42da397f"
+  },
+  "/opt/data/worldwideview/src/core/edition.ts": {
+    "mtime": 1778539431.1437104,
+    "hash": "56450cfefd7a0c49b986d24959014830"
+  },
+  "/opt/data/worldwideview/src/core/demoAdmin.test.ts": {
+    "mtime": 1778539431.1437104,
+    "hash": "dd2d54528cbc13f94d761cadce993224"
+  },
+  "/opt/data/worldwideview/src/core/state/uiSlice.ts": {
+    "mtime": 1778539431.1507103,
+    "hash": "585f608d8631c260967947208f362edd"
+  },
+  "/opt/data/worldwideview/src/core/state/layersSlice.ts": {
+    "mtime": 1778539431.1507103,
+    "hash": "6a029dfcbf9ffd1398a2a0cf9391189e"
+  },
+  "/opt/data/worldwideview/src/core/state/favoritesSlice.ts": {
+    "mtime": 1778539431.1497104,
+    "hash": "b6c449d609a5a17c69f4118f8f9c5c8c"
+  },
+  "/opt/data/worldwideview/src/core/state/globeSlice.ts": {
+    "mtime": 1778539431.1507103,
+    "hash": "f0f7a8257366dbc13ea0870e38fec7b2"
+  },
+  "/opt/data/worldwideview/src/core/state/configSlice.ts": {
+    "mtime": 1778539431.1497104,
+    "hash": "eb6378c71404b9837d23286b5dba4d49"
+  },
+  "/opt/data/worldwideview/src/core/state/store.ts": {
+    "mtime": 1778539431.1507103,
+    "hash": "eb43eb2e7d59c483946aa016c8cf0fb0"
+  },
+  "/opt/data/worldwideview/src/core/state/filterSlice.ts": {
+    "mtime": 1778539431.1507103,
+    "hash": "0ef09d99560ca635eb7deb1e6dade673"
+  },
+  "/opt/data/worldwideview/src/core/state/geojsonSlice.ts": {
+    "mtime": 1778539431.1507103,
+    "hash": "26fbc38d4a84f5fd7395f8c1c975405c"
+  },
+  "/opt/data/worldwideview/src/core/state/dataSlice.ts": {
+    "mtime": 1778539431.1497104,
+    "hash": "035014457aacd2ddcbe9a1b8589b0ef7"
+  },
+  "/opt/data/worldwideview/src/core/state/timelineSlice.ts": {
+    "mtime": 1778539431.1507103,
+    "hash": "a144e02902551b25a37ffa3ad378a2f3"
+  },
+  "/opt/data/worldwideview/src/core/__tests__/workspace.test.ts": {
+    "mtime": 1778539431.1427104,
+    "hash": "8e54a9c5f172ad033993237468369e53"
+  },
+  "/opt/data/worldwideview/src/core/license/tiers.ts": {
+    "mtime": 1778539431.1477103,
+    "hash": "493a4263bc83c73ad4bce4dd6bf71ee4"
+  },
+  "/opt/data/worldwideview/src/core/license/verifyLicense.ts": {
+    "mtime": 1778539431.1477103,
+    "hash": "df8d2a12d51f0b83d274d7794528fd65"
+  },
+  "/opt/data/worldwideview/src/core/hooks/useMarketplaceSync.ts": {
+    "mtime": 1778539431.1477103,
+    "hash": "6cde79055a0e3d2fb1d0fd1662779bfa"
+  },
+  "/opt/data/worldwideview/src/core/hooks/useBootSequence.ts": {
+    "mtime": 1778539431.1477103,
+    "hash": "b1eceab5bc8c93ffa7f3acbac84588f5"
+  },
+  "/opt/data/worldwideview/src/core/hooks/useIsMobile.ts": {
+    "mtime": 1778539431.1477103,
+    "hash": "dbdcddf6b536b43e69fa85c33b8acb3c"
+  },
+  "/opt/data/worldwideview/src/core/hooks/useResizablePanel.ts": {
+    "mtime": 1778539431.1477103,
+    "hash": "dbd210c600ceab07142320eec862e137"
+  },
+  "/opt/data/worldwideview/src/core/filters/filterEngine.ts": {
+    "mtime": 1778539431.1437104,
+    "hash": "543ddf79f5abe0e2df57226d9362123d"
+  },
+  "/opt/data/worldwideview/src/core/data/CacheLayer.ts": {
+    "mtime": 1778539431.1427104,
+    "hash": "33eb7d4eba1a525c659ccedfd76a324f"
+  },
+  "/opt/data/worldwideview/src/core/data/WsClient.ts": {
+    "mtime": 1778539431.1427104,
+    "hash": "fcc77b65402fd2a415d2e3fca231b275"
+  },
+  "/opt/data/worldwideview/src/core/data/resolveEngineUrl.ts": {
+    "mtime": 1778539431.1437104,
+    "hash": "4bd7317ff49148474836a0b7f778f7b8"
+  },
+  "/opt/data/worldwideview/src/core/data/DataBus.ts": {
+    "mtime": 1778539431.1427104,
+    "hash": "7dc44ce1f2fe7025110023402d0459c3"
+  },
+  "/opt/data/worldwideview/src/core/data/SmartFetcher.ts": {
+    "mtime": 1778539431.1427104,
+    "hash": "130c8afca4f3f26bb941f15b3b75b950"
+  },
+  "/opt/data/worldwideview/src/core/data/PollingManager.ts": {
+    "mtime": 1778539431.1427104,
+    "hash": "3933f88d79f7456ff9a91d384b3f7f37"
+  },
+  "/opt/data/worldwideview/src/core/data/engineManifest.ts": {
+    "mtime": 1778539431.1437104,
+    "hash": "9ab870f98b874011707f041ad295836e"
+  },
+  "/opt/data/worldwideview/src/core/data/countries.ts": {
+    "mtime": 1778539431.1437104,
+    "hash": "17de8bd40b9cee2c2ab98bd3020dd13e"
+  },
+  "/opt/data/worldwideview/src/core/globe/GlobeView.tsx": {
+    "mtime": 1778539431.1447103,
+    "hash": "1cec1782604a14a8fab6e0f8284b7ddc"
+  },
+  "/opt/data/worldwideview/src/core/globe/ImageryProviderFactory.ts": {
+    "mtime": 1778539431.1447103,
+    "hash": "bbd1262e0311fac340ce1e58e0c33957"
+  },
+  "/opt/data/worldwideview/src/core/globe/stackAnimation.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "83724e265549a2e196c0e221e665b582"
+  },
+  "/opt/data/worldwideview/src/core/globe/SelectionHandler.ts": {
+    "mtime": 1778539431.1447103,
+    "hash": "fbd629c3bb10fa962d2aaf847fc98129"
+  },
+  "/opt/data/worldwideview/src/core/globe/StackTypes.ts": {
+    "mtime": 1778539431.1447103,
+    "hash": "129c48bd46cae0e75cafaa1f3b3ed7de"
+  },
+  "/opt/data/worldwideview/src/core/globe/StackManager.ts": {
+    "mtime": 1778539431.1447103,
+    "hash": "0f4fcd31375287eb2598b47cb8a68570"
+  },
+  "/opt/data/worldwideview/src/core/globe/TimelineSync.ts": {
+    "mtime": 1778539431.1457102,
+    "hash": "e45e2141b055445c5eaedf0c2a3a1d71"
+  },
+  "/opt/data/worldwideview/src/core/globe/iconUpscaler.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "29ee7b34505288f1915558e53c5dc298"
+  },
+  "/opt/data/worldwideview/src/core/globe/useBorders.ts": {
+    "mtime": 1778539431.1477103,
+    "hash": "e4a8b663d5559588cf288db4bb219478"
+  },
+  "/opt/data/worldwideview/src/core/globe/frustumGeometry.ts": {
+    "mtime": 1778539431.1457102,
+    "hash": "2b5388ca7d4fef057136f50e5c6c465c"
+  },
+  "/opt/data/worldwideview/src/core/globe/primitiveOps.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "797b4bfe8dbabfdf64b933d518cd7381"
+  },
+  "/opt/data/worldwideview/src/core/globe/FrustumRenderer.ts": {
+    "mtime": 1778539431.1447103,
+    "hash": "ccb7168844fed1e4b8864cc06b6a983d"
+  },
+  "/opt/data/worldwideview/src/core/globe/InteractionHandler.ts": {
+    "mtime": 1778539431.1447103,
+    "hash": "5eeaf8ed4a93fdc86b1f718431c17c40"
+  },
+  "/opt/data/worldwideview/src/core/globe/renderCaches.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "f2f339d711ad70572e0cff7019b1cab9"
+  },
+  "/opt/data/worldwideview/src/core/globe/CameraController.ts": {
+    "mtime": 1778539431.1437104,
+    "hash": "4430fe5a8fcc86afdcdc34baa22ba020"
+  },
+  "/opt/data/worldwideview/src/core/globe/renderOptionsCache.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "e13bb67967c84a1f4ac006c4894081c1"
+  },
+  "/opt/data/worldwideview/src/core/globe/StackLayout.ts": {
+    "mtime": 1778539431.1447103,
+    "hash": "663cc79bed49cbb93a931cd7329bc9ef"
+  },
+  "/opt/data/worldwideview/src/core/globe/ModelManager.ts": {
+    "mtime": 1778539431.1447103,
+    "hash": "054fdda4aeab17a53ecc9d1e7d278743"
+  },
+  "/opt/data/worldwideview/src/core/globe/animationHelpers.ts": {
+    "mtime": 1778539431.1457102,
+    "hash": "925e7d01ee6279fb67f630bb1ec33740"
+  },
+  "/opt/data/worldwideview/src/core/globe/AnimationLoop.ts": {
+    "mtime": 1778539431.1437104,
+    "hash": "d941c9e9d073846dbcf89551a3c169e3"
+  },
+  "/opt/data/worldwideview/src/core/globe/useImageryManager.ts": {
+    "mtime": 1778539431.1477103,
+    "hash": "0e6e53d09edc4e6137d0bd1b7d4cbba6"
+  },
+  "/opt/data/worldwideview/src/core/globe/ChunkedProcessor.ts": {
+    "mtime": 1778539431.1447103,
+    "hash": "564158423515e748cc4b73fb01ce759d"
+  },
+  "/opt/data/worldwideview/src/core/globe/EntityRenderer.ts": {
+    "mtime": 1778539431.1447103,
+    "hash": "46cd6dbfa442320f9fa98c313ae72714"
+  },
+  "/opt/data/worldwideview/src/core/globe/StackClustering.ts": {
+    "mtime": 1778539431.1447103,
+    "hash": "fd7132f24ea7736fc0a93811702e5bfb"
+  },
+  "/opt/data/worldwideview/src/core/globe/hooks/useSelectionAnchor.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "4d2ecfedb3e94403244f370e76c362c5"
+  },
+  "/opt/data/worldwideview/src/core/globe/hooks/useModelRendering.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "31090647658dc0ec5c151271f550b174"
+  },
+  "/opt/data/worldwideview/src/core/globe/hooks/useTrailRendering.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "8f6db296d64224aeda406aa4d1e79ce6"
+  },
+  "/opt/data/worldwideview/src/core/globe/hooks/useSatelliteFrustum.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "1b244d44d286a6303afeaf8dcc31a26e"
+  },
+  "/opt/data/worldwideview/src/core/globe/hooks/useCameraSync.ts": {
+    "mtime": 1778539431.1457102,
+    "hash": "ea254c14726fa9cb29e10c270303b66d"
+  },
+  "/opt/data/worldwideview/src/core/globe/hooks/searchPinAnimation.ts": {
+    "mtime": 1778539431.1457102,
+    "hash": "8e539d2f7128e67c0fdbc61adfc17974"
+  },
+  "/opt/data/worldwideview/src/core/globe/hooks/useFrustumRendering.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "0244aafffe9f86555b8c5252fdb5ddff"
+  },
+  "/opt/data/worldwideview/src/core/globe/hooks/usePersistentDataSync.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "6049d077d8892e65eb0aef99d3dd75b4"
+  },
+  "/opt/data/worldwideview/src/core/globe/hooks/useViewerInitialization.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "1c74b61e11790df8c42887c490b9b122"
+  },
+  "/opt/data/worldwideview/src/core/globe/hooks/useEntityRendering.ts": {
+    "mtime": 1778539431.1467104,
+    "hash": "5c72429b6e56ba18815aefee67a69db6"
+  },
+  "/opt/data/worldwideview/src/core/globe/hooks/useCameraActions.ts": {
+    "mtime": 1778539431.1457102,
+    "hash": "386646a6ecdf861cf64f39cad3faecaf"
+  },
+  "/opt/data/worldwideview/src/core/plugins/PluginManifest.ts": {
+    "mtime": 1778539431.1487103,
+    "hash": "0d4be23ec984207bec914151b40896d4"
+  },
+  "/opt/data/worldwideview/src/core/plugins/validateManifest.ts": {
+    "mtime": 1778539431.1497104,
+    "hash": "fdc8bb2f206f2258cf19b402c036a51c"
+  },
+  "/opt/data/worldwideview/src/core/plugins/PluginRegistry.ts": {
+    "mtime": 1778539431.1487103,
+    "hash": "e0b9948ff8d42bd97eb6aac8d4a9f95f"
+  },
+  "/opt/data/worldwideview/src/core/plugins/parseWwvManifest.ts": {
+    "mtime": 1778539431.1497104,
+    "hash": "b6a343cbf938fb821ad3ec4ad46a0358"
+  },
+  "/opt/data/worldwideview/src/core/plugins/PluginTypes.ts": {
+    "mtime": 1778539431.1487103,
+    "hash": "bd7edd949fc06a6f556fb4d7b316bb4b"
+  },
+  "/opt/data/worldwideview/src/core/plugins/loadPluginFromManifest.ts": {
+    "mtime": 1778539431.1487103,
+    "hash": "2731fdf38cd024566e48a845e82f01d1"
+  },
+  "/opt/data/worldwideview/src/core/plugins/hostGlobals.ts": {
+    "mtime": 1778539431.1487103,
+    "hash": "420b85918a05d53bb18e3f63dde5138e"
+  },
+  "/opt/data/worldwideview/src/core/plugins/PluginManager.ts": {
+    "mtime": 1778539431.1487103,
+    "hash": "a8b825be73b7eddf9c28ea9137489b42"
+  },
+  "/opt/data/worldwideview/src/core/plugins/InstalledPluginsLoader.ts": {
+    "mtime": 1778539431.1477103,
+    "hash": "70eaa4d8d6ec170ce8b8fc4e65518711"
+  },
+  "/opt/data/worldwideview/src/core/plugins/loaders/index.ts": {
+    "mtime": 1778539431.1497104,
+    "hash": "2302dccbe9db30a2fef81dfcd1e5179e"
+  },
+  "/opt/data/worldwideview/src/core/plugins/loaders/getNestedValue.test.ts": {
+    "mtime": 1778539431.1487103,
+    "hash": "f6d8c5074fda23a6d24eb6d6734ef96c"
+  },
+  "/opt/data/worldwideview/src/core/plugins/loaders/DeclarativePlugin.test.ts": {
+    "mtime": 1778539431.1487103,
+    "hash": "1a4fe2033ec26934d4f00fe9631ae51e"
+  },
+  "/opt/data/worldwideview/src/core/plugins/loaders/getNestedValue.ts": {
+    "mtime": 1778539431.1497104,
+    "hash": "858eaa9f01a660ecd0bdcb1c1c9daa78"
+  },
+  "/opt/data/worldwideview/src/core/plugins/loaders/mapJsonToEntities.ts": {
+    "mtime": 1778539431.1497104,
+    "hash": "e3c8e7d9c27df8c8a69afd0e9055583c"
+  },
+  "/opt/data/worldwideview/src/core/plugins/loaders/DeclarativePlugin.ts": {
+    "mtime": 1778539431.1487103,
+    "hash": "d2d076548ac9ad985fe70f0b4790f0e2"
+  },
+  "/opt/data/worldwideview/src/core/plugins/loaders/mapGeoJsonToEntities.ts": {
+    "mtime": 1778539431.1497104,
+    "hash": "1203bb0e3fc7be9035247d9afdfa7d37"
+  },
+  "/opt/data/worldwideview/src/lib/rateLimit.ts": {
+    "mtime": 1778539431.1527102,
+    "hash": "b815c218d545b60ff83acb7cb53c256c"
+  },
+  "/opt/data/worldwideview/src/lib/origin.ts": {
+    "mtime": 1778539431.1527102,
+    "hash": "405e5267b5226ec59626ab5b56282d3d"
+  },
+  "/opt/data/worldwideview/src/lib/analytics.ts": {
+    "mtime": 1778539431.1507103,
+    "hash": "69de6293e84dd3d35a4237d64119bacf"
+  },
+  "/opt/data/worldwideview/src/lib/db.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "6205ea32abcd78fcde09eb85743c33b7"
+  },
+  "/opt/data/worldwideview/src/lib/supabase.ts": {
+    "mtime": 1778539431.1537104,
+    "hash": "c327874872c56bf69ab47eb3c987ac6b"
+  },
+  "/opt/data/worldwideview/src/lib/rateLimit.test.ts": {
+    "mtime": 1778539431.1527102,
+    "hash": "882da72b745b595ac906c7026f709763"
+  },
+  "/opt/data/worldwideview/src/lib/auth.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "09bbdd4699e0f49441fa9d93e65af007"
+  },
+  "/opt/data/worldwideview/src/lib/rateLimiters.ts": {
+    "mtime": 1778539431.1537104,
+    "hash": "fdc27277512eec1452730bc1f7324da2"
+  },
+  "/opt/data/worldwideview/src/lib/logCatcher.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "6533c1a4e120f25df94f0cc7e690bd73"
+  },
+  "/opt/data/worldwideview/src/lib/userApiKeys.ts": {
+    "mtime": 1778539431.1537104,
+    "hash": "513f768cb89303aa94b7aaabbf5a44e8"
+  },
+  "/opt/data/worldwideview/src/lib/auth.config.ts": {
+    "mtime": 1778539431.1507103,
+    "hash": "0ba074d093679197891c57b3a6ec3946"
+  },
+  "/opt/data/worldwideview/src/lib/stripe/client.ts": {
+    "mtime": 1778539431.1537104,
+    "hash": "ee30dc474d17fda5c348851a05f63fc0"
+  },
+  "/opt/data/worldwideview/src/lib/geojson/normalizer.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "69a4ad95124b802eea9d20a30cd42c52"
+  },
+  "/opt/data/worldwideview/src/lib/geojson/fieldDetector.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "6132418cb5a3117eafa0953df869bad4"
+  },
+  "/opt/data/worldwideview/src/lib/geojson/index.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "ac1a7fc838971ce22a6f64453b6182cd"
+  },
+  "/opt/data/worldwideview/src/lib/geojson/normalizer.test.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "e4a08b6144e732c294411d237853487b"
+  },
+  "/opt/data/worldwideview/src/lib/geojson/converter.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "afa6814ac5933ece24868adc0e13b59a"
+  },
+  "/opt/data/worldwideview/src/lib/geojson/converter.test.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "3bbb2ea71a09d0c9510311ef46fec525"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/defaultPlugins.ts": {
+    "mtime": 1778542231.51728,
+    "hash": "5bffc07148838f9b8da786ead32a137b"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/seedDefaultPlugins.test.ts": {
+    "mtime": 1778539431.1527102,
+    "hash": "545c9fb61fbd1ff72b93a6610f06e8c2"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/cdnUrl.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "db7846ef0f53c4bd4a63b0605af09e01"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/marketplaceToken.ts": {
+    "mtime": 1778539431.1527102,
+    "hash": "46e873d8a837528c1e51e9debb6ed6a7"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/cors.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "932b948db31bd78651c32da013136467"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/cors.test.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "5bf1f25267bed1e110dcb2b607f1b5b1"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/repository.ts": {
+    "mtime": 1778539431.1527102,
+    "hash": "2b1144cfc5cea5bdc750f737ae854fd6"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/trustedPlugins.ts": {
+    "mtime": 1778539431.1527102,
+    "hash": "5cf43b96207a34dfbddaf147a45afef9"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/auth.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "e22b809044e3f5424f0fbdfad9357e26"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/registryClient.ts": {
+    "mtime": 1778539431.1527102,
+    "hash": "c7f11ba249621f66d6aadb30863638c4"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/seedDefaultPlugins.ts": {
+    "mtime": 1778539431.1527102,
+    "hash": "28c9c1cb6fbb7b92c066cb95b6f80f3c"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/marketplaceToken.test.ts": {
+    "mtime": 1778539431.1517103,
+    "hash": "33d7b512752c0820389b4123f537fabf"
+  },
+  "/opt/data/worldwideview/src/lib/marketplace/repository.test.ts": {
+    "mtime": 1778539431.1527102,
+    "hash": "322d7ca7552a993fc5c4f7d335e847f9"
+  },
+  "/opt/data/worldwideview/src/components/ui/ErrorToast.tsx": {
+    "mtime": 1778539431.1417103,
+    "hash": "8b6de5d0d8f91676b69b189593a7a757"
+  },
+  "/opt/data/worldwideview/src/components/ui/Tooltip.tsx": {
+    "mtime": 1778539431.1417103,
+    "hash": "1c6a1ce39313f815b9a0c8c86e92bca9"
+  },
+  "/opt/data/worldwideview/src/components/ui/ReloadToast.tsx": {
+    "mtime": 1778539431.1417103,
+    "hash": "5c2b15db2cde04e47be4be91c96a9129"
+  },
+  "/opt/data/worldwideview/src/components/ads/AdUnit.tsx": {
+    "mtime": 1778539431.1357105,
+    "hash": "e5ceac16d89631b1ab091c6249a62140"
+  },
+  "/opt/data/worldwideview/src/components/ads/DemoAdStrip.tsx": {
+    "mtime": 1778539431.1357105,
+    "hash": "8ed399561ffb37e07c5219528740b663"
+  },
+  "/opt/data/worldwideview/src/components/panels/FilterPanel.tsx": {
+    "mtime": 1778539431.1397104,
+    "hash": "917f4db95914e3cbc9a14dce5a8abcf6"
+  },
+  "/opt/data/worldwideview/src/components/panels/FavoritesTab.tsx": {
+    "mtime": 1778539431.1397104,
+    "hash": "536769c3d7e1d725f4ae8c701971c917"
+  },
+  "/opt/data/worldwideview/src/components/panels/CameraStatsPanel.tsx": {
+    "mtime": 1778539431.1387103,
+    "hash": "9e0dc039af06f134915d89381a47bff3"
+  },
+  "/opt/data/worldwideview/src/components/panels/GraphicsSettings.tsx": {
+    "mtime": 1778539431.1397104,
+    "hash": "0cff4469c5d2c2e627f98230922c317e"
+  },
+  "/opt/data/worldwideview/src/components/panels/PluginsTab.tsx": {
+    "mtime": 1778539431.1397104,
+    "hash": "ed7d59ed5bf7ef416ed5fd39e96305c5"
+  },
+  "/opt/data/worldwideview/src/components/panels/ImageryPicker.tsx": {
+    "mtime": 1778539431.1397104,
+    "hash": "fd272114f5fde56b4b0cdd541cd1819e"
+  },
+  "/opt/data/worldwideview/src/components/panels/EntityInfoCard.tsx": {
+    "mtime": 1778539431.1397104,
+    "hash": "78b933657e2e23b91c0cf3e826c39e94"
+  },
+  "/opt/data/worldwideview/src/components/panels/LayerPanel.tsx": {
+    "mtime": 1778539431.1397104,
+    "hash": "2d0de912f48bab2ca80898d805332ae8"
+  },
+  "/opt/data/worldwideview/src/components/panels/FilterControls.tsx": {
+    "mtime": 1778539431.1397104,
+    "hash": "f51fc18a4e09ae943e47c40927551097"
+  },
+  "/opt/data/worldwideview/src/components/panels/LayerItem.tsx": {
+    "mtime": 1778539431.1397104,
+    "hash": "205ea5f1b4c2ab05544701d6fbc994bd"
+  },
+  "/opt/data/worldwideview/src/components/panels/tabs/IntelTab.tsx": {
+    "mtime": 1778539431.1407104,
+    "hash": "e2eca32a201a8540a99707dd5a3cfd5c"
+  },
+  "/opt/data/worldwideview/src/components/panels/tabs/CacheLimitsTab.tsx": {
+    "mtime": 1778539431.1407104,
+    "hash": "357f2966dbb8fc3c9de572b59578ca79"
+  },
+  "/opt/data/worldwideview/src/components/panels/tabs/OverlayConfigTab.tsx": {
+    "mtime": 1778539431.1417103,
+    "hash": "a879d2d72ce43c4312b0d7bc2bbab5ae"
+  },
+  "/opt/data/worldwideview/src/components/panels/config/OverlayTab.tsx": {
+    "mtime": 1778539431.1407104,
+    "hash": "253bcf09695c8e81223e819dcf6f389c"
+  },
+  "/opt/data/worldwideview/src/components/panels/config/CacheTab.tsx": {
+    "mtime": 1778539431.1397104,
+    "hash": "4fb19ed8fac45f71ab5455ccd6f22322"
+  },
+  "/opt/data/worldwideview/src/components/panels/config/IntelTab.tsx": {
+    "mtime": 1778539431.1407104,
+    "hash": "351dc0dfef4993a9d4f757d8fe24cf57"
+  },
+  "/opt/data/worldwideview/src/components/panels/config/shared.tsx": {
+    "mtime": 1778539431.1407104,
+    "hash": "fbd52a15aa621282cbb661d17a0479e0"
+  },
+  "/opt/data/worldwideview/src/components/panels/DataConfig/OverlayTab.tsx": {
+    "mtime": 1778539431.1387103,
+    "hash": "ca81de839b047e6a7c6b9a093f499d4d"
+  },
+  "/opt/data/worldwideview/src/components/panels/DataConfig/CacheTab.tsx": {
+    "mtime": 1778539431.1387103,
+    "hash": "78189b5b0cdd001feadb7137f2005bd0"
+  },
+  "/opt/data/worldwideview/src/components/panels/DataConfig/ApiKeysTab.tsx": {
+    "mtime": 1778539431.1387103,
+    "hash": "8b90e9676a51d42858c17ebb168238c5"
+  },
+  "/opt/data/worldwideview/src/components/panels/DataConfig/IntelTab.tsx": {
+    "mtime": 1778539431.1387103,
+    "hash": "80bb7606e3fa4d4c39e085688c2d808e"
+  },
+  "/opt/data/worldwideview/src/components/panels/DataConfig/sharedStyles.ts": {
+    "mtime": 1778539431.1387103,
+    "hash": "fbd52a15aa621282cbb661d17a0479e0"
+  },
+  "/opt/data/worldwideview/src/components/panels/DataConfig/index.tsx": {
+    "mtime": 1778539431.1387103,
+    "hash": "4ea12063bf6af0c938e6ec332654d805"
+  },
+  "/opt/data/worldwideview/src/components/panels/properties/IntelPropertyRow.tsx": {
+    "mtime": 1778539431.1407104,
+    "hash": "944f65607398a56e84f357dcd2846abe"
+  },
+  "/opt/data/worldwideview/src/components/panels/properties/ImageProperty.tsx": {
+    "mtime": 1778539431.1407104,
+    "hash": "4e3d2c26ab2521f762867e9aee41c3eb"
+  },
+  "/opt/data/worldwideview/src/components/panels/properties/UrlProperty.tsx": {
+    "mtime": 1778539431.1407104,
+    "hash": "6b69be769cb54444ab64eb3675eb8cd5"
+  },
+  "/opt/data/worldwideview/src/components/panels/properties/LongTextProperty.tsx": {
+    "mtime": 1778539431.1407104,
+    "hash": "b7c6ee977e62015ea9719ba80624f932"
+  },
+  "/opt/data/worldwideview/src/components/panels/properties/TimestampProperty.tsx": {
+    "mtime": 1778539431.1407104,
+    "hash": "00d3dece5ac1455faf701bb6ec33f303"
+  },
+  "/opt/data/worldwideview/src/components/panels/properties/DynamicPropertiesRender.tsx": {
+    "mtime": 1778539431.1407104,
+    "hash": "0e9218c91639d24e09a1592f921f1e1d"
+  },
+  "/opt/data/worldwideview/src/components/layout/useSearchHistory.ts": {
+    "mtime": 1778539431.1377103,
+    "hash": "57a62fd13cbf6573e43bc844e56b3463"
+  },
+  "/opt/data/worldwideview/src/components/layout/searchTypes.ts": {
+    "mtime": 1778539431.1377103,
+    "hash": "f3e6eb834326526becac778a93af4369"
+  },
+  "/opt/data/worldwideview/src/components/layout/searchEntities.tsx": {
+    "mtime": 1778539431.1377103,
+    "hash": "c31328307c8e205f9989082033a5d434"
+  },
+  "/opt/data/worldwideview/src/components/layout/placeCategories.ts": {
+    "mtime": 1778539431.1377103,
+    "hash": "cd964a8742da5711c329df76bdf48095"
+  },
+  "/opt/data/worldwideview/src/components/layout/AppShell.tsx": {
+    "mtime": 1778539431.1367104,
+    "hash": "1034686a094d905da2ce7440df952d6f"
+  },
+  "/opt/data/worldwideview/src/components/layout/ApiKeysTab.tsx": {
+    "mtime": 1778539431.1367104,
+    "hash": "39bd947947b544dc23b1d7463c79c205"
+  },
+  "/opt/data/worldwideview/src/components/layout/DataBusSubscriber.tsx": {
+    "mtime": 1778539431.1367104,
+    "hash": "3650d44851a68f0fcc966a2f6ca919fc"
+  },
+  "/opt/data/worldwideview/src/components/layout/MobileCameraStats.tsx": {
+    "mtime": 1778539431.1367104,
+    "hash": "ad545e9319c0a850d82e96cec01412b9"
+  },
+  "/opt/data/worldwideview/src/components/layout/searchLocations.tsx": {
+    "mtime": 1778539431.1377103,
+    "hash": "44aae6611f4c5b0fe41554c2167bc640"
+  },
+  "/opt/data/worldwideview/src/components/layout/SearchBar.tsx": {
+    "mtime": 1778539431.1377103,
+    "hash": "c3ea4d9a7fe2baf1cc93c0a3cb313f06"
+  },
+  "/opt/data/worldwideview/src/components/layout/DevModeSubscriber.tsx": {
+    "mtime": 1778539431.1367104,
+    "hash": "045a86a279035a4a7c2b7a2c2d0ffb71"
+  },
+  "/opt/data/worldwideview/src/components/layout/useSearch.tsx": {
+    "mtime": 1778539431.1377103,
+    "hash": "3105e5d0ece726da8fb2ccecbe110fb6"
+  },
+  "/opt/data/worldwideview/src/components/layout/MobileHudBar.tsx": {
+    "mtime": 1778539431.1377103,
+    "hash": "906865f8c7cf6b7bbe9bf43365777eb5"
+  },
+  "/opt/data/worldwideview/src/components/layout/PanelToggleArrows.tsx": {
+    "mtime": 1778539431.1377103,
+    "hash": "df8fa7bd6318d16cb8abe74164b4bda9"
+  },
+  "/opt/data/worldwideview/src/components/layout/Header.tsx": {
+    "mtime": 1778539431.1367104,
+    "hash": "1479484c99a1d96e23f54ab9e83276f7"
+  },
+  "/opt/data/worldwideview/src/components/common/PannableView.tsx": {
+    "mtime": 1778539431.1367104,
+    "hash": "161d1006c66378d475a96f99a4a957c9"
+  },
+  "/opt/data/worldwideview/src/components/common/BootOverlay.tsx": {
+    "mtime": 1778539431.1357105,
+    "hash": "a3aad30e6cd71619ddfc85756a839677"
+  },
+  "/opt/data/worldwideview/src/components/common/PluginIcon.tsx": {
+    "mtime": 1778539431.1367104,
+    "hash": "df8c83f9c4cdfe37a410b203bff3cb2c"
+  },
+  "/opt/data/worldwideview/src/components/common/FloatingWindow.tsx": {
+    "mtime": 1778539431.1357105,
+    "hash": "641325fb972dc8459118d07466dfb99d"
+  },
+  "/opt/data/worldwideview/src/components/common/PluginErrorBoundary.tsx": {
+    "mtime": 1778539431.1367104,
+    "hash": "1e3132df224038156b3e96c9c8e2d967"
+  },
+  "/opt/data/worldwideview/src/components/common/FeedbackDialog.tsx": {
+    "mtime": 1778539431.1357105,
+    "hash": "f09e9a4df0a8a3b224a167afe96ffe7e"
+  },
+  "/opt/data/worldwideview/src/components/common/DiscordIcon.tsx": {
+    "mtime": 1778539431.1357105,
+    "hash": "e229e5b1b0b291d47573a2937386b72a"
+  },
+  "/opt/data/worldwideview/src/components/timeline/Timeline.tsx": {
+    "mtime": 1778539431.1417103,
+    "hash": "8898373de0ab537b8a03b1a793df325b"
+  },
+  "/opt/data/worldwideview/src/components/video/FloatingVideoManager.tsx": {
+    "mtime": 1778539431.1427104,
+    "hash": "7552cce0bb7a8bac0d177fa689a10f11"
+  },
+  "/opt/data/worldwideview/src/components/video/streamUtils.ts": {
+    "mtime": 1778539431.1427104,
+    "hash": "8c6e4d4af7192102c7b27d1cf373a975"
+  },
+  "/opt/data/worldwideview/src/components/video/CameraStream.tsx": {
+    "mtime": 1778539431.1417103,
+    "hash": "a5662b7b40a9c29f5e7b667e4960ea27"
+  },
+  "/opt/data/worldwideview/src/components/video/HlsPlayer.tsx": {
+    "mtime": 1778539431.1427104,
+    "hash": "ce48f798fe2ea2207a58c5832ccd9c1b"
+  },
+  "/opt/data/worldwideview/src/components/marketplace/UnverifiedPluginBatchDialog.tsx": {
+    "mtime": 1778539431.1387103,
+    "hash": "a3595327cd0bee9b09ec88b544d4c828"
+  },
+  "/opt/data/worldwideview/src/app/global-error.tsx": {
+    "mtime": 1778539431.1337104,
+    "hash": "a6c342f15df587e048e5a9933c4a8f6e"
+  },
+  "/opt/data/worldwideview/src/app/page.tsx": {
+    "mtime": 1778539431.1337104,
+    "hash": "2cb0cb959ce7b8e942351e1246ac4348"
+  },
+  "/opt/data/worldwideview/src/app/layout.tsx": {
+    "mtime": 1778539431.1337104,
+    "hash": "d95f7175653d13cf9750527547f85ddd"
+  },
+  "/opt/data/worldwideview/src/app/setup/page.tsx": {
+    "mtime": 1778539431.1347103,
+    "hash": "e05b5c54494acd1b6be541bcc05bd3a6"
+  },
+  "/opt/data/worldwideview/src/app/setup/actions.ts": {
+    "mtime": 1778539431.1337104,
+    "hash": "aa400b6d6d58147fd6a0e23f8146eef9"
+  },
+  "/opt/data/worldwideview/src/app/api/places/details/route.ts": {
+    "mtime": 1778539431.1327105,
+    "hash": "23448e18e92e8fda147db53407552980"
+  },
+  "/opt/data/worldwideview/src/app/api/places/search/route.ts": {
+    "mtime": 1778539431.1327105,
+    "hash": "c619ec1224431bf02f103fac9098d339"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/ny511/ny511Fetcher.ts": {
+    "mtime": 1778539431.1287105,
+    "hash": "2c0fb03784d4acf287c1684bcf907328"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/traffic/route.ts": {
+    "mtime": 1778539431.1297104,
+    "hash": "0f5f692eabc7ed564259e0dfb6a5d1f3"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/adapters/registry.ts": {
+    "mtime": 1778539431.1277103,
+    "hash": "81d488fa409dd029df41dc11a1c1c33d"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/adapters/caltrans.ts": {
+    "mtime": 1778539431.1277103,
+    "hash": "c163f48b6b77342ddb35e8aebb135d88"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/adapters/ny511.ts": {
+    "mtime": 1778539431.1277103,
+    "hash": "4c28dc054fdfce3da38e1c26ef7afecf"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/adapters/gdot.ts": {
+    "mtime": 1778539431.1277103,
+    "hash": "642b9b412d9c4dc6d221358d26179668"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/adapters/types.ts": {
+    "mtime": 1778539431.1287105,
+    "hash": "f84c66eecaa7052c2a8a6f3d87c4e1e1"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/adapters/tfl.ts": {
+    "mtime": 1778539431.1277103,
+    "hash": "f8b6ebff1eda47fca3068deb5674b314"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/adapters/wsdot.ts": {
+    "mtime": 1778539431.1287105,
+    "hash": "81f85af4d69865d4490ad8f28638164e"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/gdot/gdotFetcher.ts": {
+    "mtime": 1778539431.1287105,
+    "hash": "46c980b74fc4b78cfde717fed87f68ae"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/wsdot/wsdotFetcher.ts": {
+    "mtime": 1778539431.1297104,
+    "hash": "59b92da1b7338ba4480a0f56c7a920c4"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/tfl/tflFetcher.ts": {
+    "mtime": 1778539431.1297104,
+    "hash": "37e8c70dd8c61464cbb31bcff6aa2978"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/extract/route.ts": {
+    "mtime": 1778539431.1287105,
+    "hash": "45c290d909fa5465ee1a0d0771822de3"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/proxy/route.ts": {
+    "mtime": 1778539431.1297104,
+    "hash": "e1a4d67b40f70f0b680f782b80044df9"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/proxy/iframe/route.ts": {
+    "mtime": 1778539431.1287105,
+    "hash": "756e3771ab9a5006314bf1c5e65c3a7e"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/proxy/stream/route.ts": {
+    "mtime": 1778539431.1297104,
+    "hash": "4f05351594b21266a315fa49928b7a22"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/test/route.ts": {
+    "mtime": 1778539431.1297104,
+    "hash": "522098f1295e682f0c737a104366bf64"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/list/route.ts": {
+    "mtime": 1778539431.1287105,
+    "hash": "5c25751a644a2962938b685f399ba097"
+  },
+  "/opt/data/worldwideview/src/app/api/camera/caltrans/caltransFetcher.ts": {
+    "mtime": 1778539431.1287105,
+    "hash": "36b4a608d2f83f0c61fed4305c525929"
+  },
+  "/opt/data/worldwideview/src/app/api/dev/load-unpacked/route.ts": {
+    "mtime": 1778539431.1297104,
+    "hash": "a7605e3e6604966c7d427c9a86688d51"
+  },
+  "/opt/data/worldwideview/src/app/api/internal/workspace/[subdomain]/route.ts": {
+    "mtime": 1778539431.1307104,
+    "hash": "193855e9af81de7512392ab73dfdda3f"
+  },
+  "/opt/data/worldwideview/src/app/api/glitchtip-tunnel/route.ts": {
+    "mtime": 1778539431.1307104,
+    "hash": "013052532e1d5014c48d8b9e4ef0f4a6"
+  },
+  "/opt/data/worldwideview/src/app/api/health/route.ts": {
+    "mtime": 1778539431.1307104,
+    "hash": "f607611433e96314c53b8273e9039324"
+  },
+  "/opt/data/worldwideview/src/app/api/billing/checkout/route.ts": {
+    "mtime": 1778539431.1277103,
+    "hash": "25321120278f0636c408171d63cbc54b"
+  },
+  "/opt/data/worldwideview/src/app/api/billing/webhook/route.ts": {
+    "mtime": 1778539431.1277103,
+    "hash": "160e3e8ae13940804dcf3fa26c86a282"
+  },
+  "/opt/data/worldwideview/src/app/api/undersea-cables/route.ts": {
+    "mtime": 1778539431.1327105,
+    "hash": "95b4ad063febb270ade19725f881fc7b"
+  },
+  "/opt/data/worldwideview/src/app/api/user/favorites/route.ts": {
+    "mtime": 1778539431.1337104,
+    "hash": "92a729f7e1921f110912af1e3776b085"
+  },
+  "/opt/data/worldwideview/src/app/api/auth/setup-status/route.ts": {
+    "mtime": 1778539431.1277103,
+    "hash": "04092b168040fb5ed03fd6b99dd63f4f"
+  },
+  "/opt/data/worldwideview/src/app/api/auth/[...nextauth]/route.ts": {
+    "mtime": 1778539431.1267104,
+    "hash": "737e15b0fe9858dd5391cb790d70fdfa"
+  },
+  "/opt/data/worldwideview/src/app/api/keys/verify/route.ts": {
+    "mtime": 1778539431.1307104,
+    "hash": "5fc261f05f201c3dcdfc058b5ff83d8c"
+  },
+  "/opt/data/worldwideview/src/app/api/earthquake/route.ts": {
+    "mtime": 1778539431.1297104,
+    "hash": "ad5e0f1eadcb3a83303e301edc2d8059"
+  },
+  "/opt/data/worldwideview/src/app/api/marketplace/install-redirect/route.ts": {
+    "mtime": 1778539431.1317103,
+    "hash": "d99987e37d44015f1542e4bf996f68a9"
+  },
+  "/opt/data/worldwideview/src/app/api/marketplace/disabled-builtins/route.ts": {
+    "mtime": 1778539431.1317103,
+    "hash": "2deb68e1af34bfaaabf7e6cd0d9d6f68"
+  },
+  "/opt/data/worldwideview/src/app/api/marketplace/load/route.ts": {
+    "mtime": 1778539431.1317103,
+    "hash": "813ea378e0766469dd82725b0f0ebd47"
+  },
+  "/opt/data/worldwideview/src/app/api/marketplace/uninstall/route.ts": {
+    "mtime": 1778539431.1317103,
+    "hash": "f4b90ca8c21cf5aba5664fac160754c4"
+  },
+  "/opt/data/worldwideview/src/app/api/marketplace/status/route.ts": {
+    "mtime": 1778539431.1317103,
+    "hash": "b85b145eec238ba83c7bdccd4aeac444"
+  },
+  "/opt/data/worldwideview/src/app/api/marketplace/check-updates/route.ts": {
+    "mtime": 1778539431.1317103,
+    "hash": "ede32aa8bdf28c8eacde1c086685edf6"
+  },
+  "/opt/data/worldwideview/src/app/api/marketplace/grant-token/route.ts": {
+    "mtime": 1778539431.1317103,
+    "hash": "f2fbd6bb56bb69c227f072c661b4779d"
+  },
+  "/opt/data/worldwideview/src/app/api/marketplace/install/route.ts": {
+    "mtime": 1778539431.1317103,
+    "hash": "17765f8dfcc22132d5b7be04cb72807d"
+  },
+  "/opt/data/worldwideview/src/app/api/marketplace/sideload/route.ts": {
+    "mtime": 1778539431.1317103,
+    "hash": "d4166729d0c3e73c3c5196ce3fb5f21c"
+  },
+  "/opt/data/worldwideview/src/app/api/plugins/osm-search/route.ts": {
+    "mtime": 1778539431.1327105,
+    "hash": "ef201eccd0a55540e826b4a53d8b1a72"
+  },
+  "/opt/data/worldwideview/src/app/test/cameras/useCameraTestRunner.ts": {
+    "mtime": 1778539431.1347103,
+    "hash": "c08db46f84fd484e952d76a33b3a139b"
+  },
+  "/opt/data/worldwideview/src/app/test/cameras/CameraTestCard.tsx": {
+    "mtime": 1778539431.1347103,
+    "hash": "68b5245a0c96f1d1fcf3387b400591d8"
+  },
+  "/opt/data/worldwideview/src/app/test/cameras/page.tsx": {
+    "mtime": 1778539431.1347103,
+    "hash": "8ed43c61d775f8401cb826be40efa96f"
+  },
+  "/opt/data/worldwideview/src/app/test/cameras/types.ts": {
+    "mtime": 1778539431.1347103,
+    "hash": "2f23c2098997b82cee6775e5cedd9d30"
+  },
+  "/opt/data/worldwideview/src/app/test/cameras/layout.tsx": {
+    "mtime": 1778539431.1347103,
+    "hash": "546cfe9f80dd2a2d50551c6f5ff2c78c"
+  },
+  "/opt/data/worldwideview/src/app/login/page.tsx": {
+    "mtime": 1778539431.1337104,
+    "hash": "834c841c08a525e99a9729a203f76c1c"
+  },
+  "/opt/data/worldwideview/src/app/login/actions.ts": {
+    "mtime": 1778539431.1337104,
+    "hash": "fea86d654f79a694a757a7961ef8930d"
+  },
+  "/opt/data/worldwideview/src/plugins/earthquakes/earthquakesApi.test.ts": {
+    "mtime": 1778539431.1537104,
+    "hash": "567b537046252c1bbd639fa30be4a95b"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/GeoJsonImporterPlugin.ts": {
+    "mtime": 1778539431.1537104,
+    "hash": "3f4813e176492477decbb5cc4f93e0dc"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/index.ts": {
+    "mtime": 1778539431.1547103,
+    "hash": "066222fb16622f07528556a13108f023"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/entityConverter.ts": {
+    "mtime": 1778539431.1547103,
+    "hash": "b4d81addb0ac1a388dff1fb902f59481"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/ImportPanel.tsx": {
+    "mtime": 1778539431.1537104,
+    "hash": "850b5871ad4d0643821f80bb7f4ff211"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/ImportedLayerList.tsx": {
+    "mtime": 1778539431.1537104,
+    "hash": "b2472f64883f80498b3b1499a913fb11"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/types.ts": {
+    "mtime": 1778539431.1547103,
+    "hash": "c5b9fcd9c19a7f1d911d007c4f6eda8b"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/ImportModal.tsx": {
+    "mtime": 1778539431.1537104,
+    "hash": "e7a57614997873b2da617220318a027e"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/useGeoJsonImport.ts": {
+    "mtime": 1778539431.1547103,
+    "hash": "cbe336e6edcb8118482f458138dd9ee9"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/components/MethodTabs.tsx": {
+    "mtime": 1778539431.1537104,
+    "hash": "cbf2ba12b0fee67a566497a5de973f9c"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/components/FileDropZone.tsx": {
+    "mtime": 1778539431.1537104,
+    "hash": "6cd2fb7177b8436f8d937c8bc7535ce1"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/components/TextInputArea.tsx": {
+    "mtime": 1778539431.1547103,
+    "hash": "c925530a1f6f11d2729792658c5e735e"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/components/MetadataForm.tsx": {
+    "mtime": 1778539431.1537104,
+    "hash": "aa4ea85f7f2a99935ac48187ae399384"
+  },
+  "/opt/data/worldwideview/src/plugins/geojson/components/PreviewInfo.tsx": {
+    "mtime": 1778539431.1537104,
+    "hash": "f8e3b46ddd9cf6c21761b5428f6157c3"
+  },
+  "/opt/data/worldwideview/self-host/init.ps1": {
+    "mtime": 1778539431.1267104,
+    "hash": "394e808c328ed887b044f2a70bdaff33"
+  },
+  "/opt/data/worldwideview/packages/wwv-lib-aviation/src/index.ts": {
+    "mtime": 1778539431.1077106,
+    "hash": "26555ffccec965f06f492d5cde1a7998"
+  },
+  "/opt/data/worldwideview/packages/wwv-lib-incidents/src/index.ts": {
+    "mtime": 1778539431.1077106,
+    "hash": "f0446e851e9dbdf7aed17ac7027c40f6"
+  },
+  "/opt/data/worldwideview/packages/wwv-plugin-sdk/src/index.ts": {
+    "mtime": 1778539431.1087105,
+    "hash": "7eb3d109007d604620d9e22d6ff0e0ba"
+  },
+  "/opt/data/worldwideview/packages/wwv-plugin-sdk/src/viteGlobals.ts": {
+    "mtime": 1778539431.1087105,
+    "hash": "0240d16ed7d7d1027fc8d5347fd7d96f"
+  },
+  "/opt/data/worldwideview/packages/wwv-plugin-sdk/src/manifest.ts": {
+    "mtime": 1778539431.1087105,
+    "hash": "9e3799adeb29991e19be6bed01662d8f"
+  },
+  "/opt/data/worldwideview/packages/wwv-plugin-sdk/src/vite/wwvStaticCompiler.ts": {
+    "mtime": 1778539431.1087105,
+    "hash": "82c3b25862179935f1c0e9601e0009e6"
+  },
+  "/opt/data/worldwideview/packages/wwv-plugin-aviation-adsb/vite.config.ts": {
+    "mtime": 1778541719.85833,
+    "hash": "2f9faa458e21bea59de81180e647ab09"
+  },
+  "/opt/data/worldwideview/packages/wwv-plugin-aviation-adsb/src/index.ts": {
+    "mtime": 1778541538.2864115,
+    "hash": "d9b623a98d0a20dd7b9995d2d462d947"
+  },
+  "/opt/data/worldwideview/prisma/migrations/20260509061229_init/migration.sql": {
+    "mtime": 1778539431.1107106,
+    "hash": "c104f9547cdab37fd7fb741aff9203e5"
+  },
+  "/opt/data/worldwideview/scripts/migrate-plugin.mjs": {
+    "mtime": 1778539431.1257105,
+    "hash": "a77a5d1b8cfb370e80010c786b9929a4"
+  },
+  "/opt/data/worldwideview/scripts/deploy-plugins.mjs": {
+    "mtime": 1778539431.1247103,
+    "hash": "9f9c1118db59241831b0144d0c318704"
+  },
+  "/opt/data/worldwideview/scripts/convertCameras.ts": {
+    "mtime": 1778539431.1247103,
+    "hash": "9909eacbc4ae6223495f7777145bd62b"
+  },
+  "/opt/data/worldwideview/scripts/boot-db.mjs": {
+    "mtime": 1778539431.1247103,
+    "hash": "8a796d41daa2f09c08bc0f1134038cdb"
+  },
+  "/opt/data/worldwideview/scripts/migrate-aviation-history.ts": {
+    "mtime": 1778539431.1257105,
+    "hash": "04d7ef88df095a109de11c46e8f0c3c8"
+  },
+  "/opt/data/worldwideview/scripts/extract-plugins.mjs": {
+    "mtime": 1778539431.1257105,
+    "hash": "7b77fb4a07c109838eb9f6b07e88cf55"
+  },
+  "/opt/data/worldwideview/scripts/https-proxy.mjs": {
+    "mtime": 1778539431.1257105,
+    "hash": "a942b5c3320be2f73e0c1ccfbd42ac47"
+  },
+  "/opt/data/worldwideview/scripts/manage-users.ts": {
+    "mtime": 1778539431.1257105,
+    "hash": "60848b8488166fe948aafda1d348d65a"
+  },
+  "/opt/data/worldwideview/scripts/test-worktree.mjs": {
+    "mtime": 1778539431.1257105,
+    "hash": "98e530d886de51dc73f654aa2498a296"
+  },
+  "/opt/data/worldwideview/scripts/migrate-legacy.mjs": {
+    "mtime": 1778539431.1257105,
+    "hash": "86e65b960b37fa40d1afcb4b2a597f21"
+  },
+  "/opt/data/worldwideview/scripts/watch-local-plugins.mjs": {
+    "mtime": 1778539431.1257105,
+    "hash": "69610a69253f68e772c736d3e2a7712e"
+  },
+  "/opt/data/worldwideview/scripts/setup.mjs": {
+    "mtime": 1778539431.1257105,
+    "hash": "062e7117685ecf303857c4e6f822e7ac"
+  },
+  "/opt/data/worldwideview/scripts/check-build-env.mjs": {
+    "mtime": 1778539431.1247103,
+    "hash": "324b36e21ace5e68fb9d448e8e69399c"
+  },
+  "/opt/data/worldwideview/scripts/sync-local-plugins.mjs": {
+    "mtime": 1778539431.1257105,
+    "hash": "c0f1a45bc7fa1a9832e095ad6127821e"
+  },
+  "/opt/data/worldwideview/scripts/copy-cesium.mjs": {
+    "mtime": 1778539431.1247103,
+    "hash": "765a7ed06d6224796c9b69a312c444a8"
+  },
+  "/opt/data/worldwideview/scripts/cleanup-plugins.ts": {
+    "mtime": 1778539431.1247103,
+    "hash": "de6791496c6c4ab35b9ce3aec9b58d00"
+  },
+  "/opt/data/worldwideview/CODE_OF_CONDUCT.md": {
+    "mtime": 1778539431.0837107,
+    "hash": "cdf8e7798fee8b8c9d579408ad11d1ad"
+  },
+  "/opt/data/worldwideview/docker-compose.yml": {
+    "mtime": 1778539431.0847106,
+    "hash": "73a61e11fd0573a27f47413b3f961740"
+  },
+  "/opt/data/worldwideview/ROADMAP.md": {
+    "mtime": 1778539431.0837107,
+    "hash": "0c3c4edeee16068b9c6f11795962e72e"
+  },
+  "/opt/data/worldwideview/README.md": {
+    "mtime": 1778539431.0837107,
+    "hash": "e7177f768ab4599da9da0d30ba5bb9a2"
+  },
+  "/opt/data/worldwideview/SECURITY.md": {
+    "mtime": 1778539431.0837107,
+    "hash": "d0cf1921e57112022b4bdd7544d20678"
+  },
+  "/opt/data/worldwideview/pnpm-workspace.yaml": {
+    "mtime": 1778539431.1107106,
+    "hash": "f4f19cc34a699c351b466313f5b9643b"
+  },
+  "/opt/data/worldwideview/AGENTS.md": {
+    "mtime": 1778539431.0837107,
+    "hash": "a321c8b7ca4a12a9c667ee766165593f"
+  },
+  "/opt/data/worldwideview/local_apis.md": {
+    "mtime": 1778539431.0877106,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/opt/data/worldwideview/CONTRIBUTING.md": {
+    "mtime": 1778539431.0837107,
+    "hash": "f27610fffad6d545b1a5c68a431972cf"
+  },
+  "/opt/data/worldwideview/local-plugins/README.md": {
+    "mtime": 1778539431.0877106,
+    "hash": "1c9b5a688fd391eb0329b5e93eeaa9f0"
+  },
+  "/opt/data/worldwideview/self-host/docker-compose.yml": {
+    "mtime": 1778539431.1267104,
+    "hash": "1f421394dbe5f13b3ee9611e411ce0a6"
+  },
+  "/opt/data/worldwideview/packages/wwv-lib-aviation/README.md": {
+    "mtime": 1778539431.1067104,
+    "hash": "e07ec5d47863c6d0dc05f38a5b8e243c"
+  },
+  "/opt/data/worldwideview/packages/wwv-lib-incidents/README.md": {
+    "mtime": 1778539431.1077106,
+    "hash": "af53deeae2bb2fb6075fcc8ba99b0e82"
+  },
+  "/opt/data/worldwideview/packages/wwv-plugin-sdk/README.md": {
+    "mtime": 1778539431.1077106,
+    "hash": "9edcc37508974c061b60898bc9b3592f"
+  },
+  "/opt/data/worldwideview/test-compose/docker-compose.yml": {
+    "mtime": 1778539431.1557102,
+    "hash": "baeec6a9eb37cbf052df3c706ac0c1ea"
+  },
+  "/opt/data/worldwideview/docs/plugin-quickstart.md": {
+    "mtime": 1778539431.0877106,
+    "hash": "41f1148b38ecf8ec0c37650bd71bc6e8"
+  },
+  "/opt/data/worldwideview/docs/files.md": {
+    "mtime": 1778539431.0867107,
+    "hash": "1ccdcb24d87972b3e78a736eb02be8d6"
+  },
+  "/opt/data/worldwideview/docs/plugin-advanced.md": {
+    "mtime": 1778539431.0877106,
+    "hash": "80475f6b86c88d6225b7ed776ca8d0cb"
+  },
+  "/opt/data/worldwideview/docs/geojson-guide.md": {
+    "mtime": 1778539431.0867107,
+    "hash": "52e1f174642b87f7bf363584f56486a4"
+  },
+  "/opt/data/worldwideview/docs/build-system.md": {
+    "mtime": 1778539431.0867107,
+    "hash": "27348bac260a744b082070924c38aa78"
+  },
+  "/opt/data/worldwideview/docs/iss-plugin-tutorial.md": {
+    "mtime": 1778539431.0877106,
+    "hash": "a3f4c020fd69545fda0eb4f22ebb827b"
+  },
+  "/opt/data/worldwideview/docs/development.md": {
+    "mtime": 1778539431.0867107,
+    "hash": "9031d453ddad39578eb132efbe4ec57d"
+  },
+  "/opt/data/worldwideview/docs/project-overview.md": {
+    "mtime": 1778539431.0877106,
+    "hash": "4cebed530cb4c47d3fcafa347112f7b7"
+  },
+  "/opt/data/worldwideview/docs/deployment.md": {
+    "mtime": 1778539431.0867107,
+    "hash": "8e8d14fc7c848c0f5099bace71812829"
+  },
+  "/opt/data/worldwideview/docs/testing.md": {
+    "mtime": 1778539431.0877106,
+    "hash": "b9b6e07955447ee4010f988a8bffa609"
+  },
+  "/opt/data/worldwideview/docs/index.md": {
+    "mtime": 1778539431.0867107,
+    "hash": "97153cf87545235380f1791ff9980808"
+  },
+  "/opt/data/worldwideview/docs/ARCHITECTURE.md": {
+    "mtime": 1778539431.0847106,
+    "hash": "9d9c62048d6e0018b67a925ba2ee3954"
+  },
+  "/opt/data/worldwideview/docs/plans/2026-05-11-adsb-aviation-plugin.md": {
+    "mtime": 1778540961.3328435,
+    "hash": "13c39baa413c205eafaf6702c76a45ff"
+  },
+  "/opt/data/worldwideview/public/ads.txt": {
+    "mtime": 1778539431.1107106,
+    "hash": "0ca27376088c5fa3fd95b0d2a43b39ac"
+  },
+  "/opt/data/worldwideview/public/airplane/license.txt": {
+    "mtime": 1778539431.1117105,
+    "hash": "778349c69367dc3ff4fe9200bc4b2c81"
+  },
+  "/opt/data/worldwideview/deploy/cloud/docker-compose.yml": {
+    "mtime": 1778539431.0837107,
+    "hash": "987ff0a10d1601429008ee4c019cb9e9"
+  },
+  "/opt/data/worldwideview/src/app/icon.svg": {
+    "mtime": 1778539431.1337104,
+    "hash": "05b540d80309e9c32cf61acc329df173"
+  },
+  "/opt/data/worldwideview/docs/assets/screenshot.png": {
+    "mtime": 1778539431.0867107,
+    "hash": "90375bdcc3ef0a248eeb9bde08a771a3"
+  },
+  "/opt/data/worldwideview/public/military-plane-icon.svg": {
+    "mtime": 1778539431.1217105,
+    "hash": "83650c36c1c04fb8b1da4e3398a78c85"
+  },
+  "/opt/data/worldwideview/public/plane-icon.svg": {
+    "mtime": 1778539431.1217105,
+    "hash": "e87c6e3d322841159154e0eb121df89b"
+  },
+  "/opt/data/worldwideview/public/favicon.svg": {
+    "mtime": 1778539431.1207104,
+    "hash": "05b540d80309e9c32cf61acc329df173"
+  },
+  "/opt/data/worldwideview/public/logo/logo-full.png": {
+    "mtime": 1778539431.1207104,
+    "hash": "5fb6639b7215e3a8dfd58b4ed64da314"
+  },
+  "/opt/data/worldwideview/public/logo/favicon-inverted.svg": {
+    "mtime": 1778539431.1207104,
+    "hash": "05b540d80309e9c32cf61acc329df173"
+  },
+  "/opt/data/worldwideview/public/logo/logo-icon.svg": {
+    "mtime": 1778539431.1217105,
+    "hash": "855652290b5b9d5c3d965096a98995d6"
+  },
+  "/opt/data/worldwideview/public/logo/favicon.svg": {
+    "mtime": 1778539431.1207104,
+    "hash": "12375eba75a9789935c43f8c68e4b12e"
+  },
+  "/opt/data/worldwideview/public/logo/logo-icon.png": {
+    "mtime": 1778539431.1207104,
+    "hash": "7bb84166ac37197768b3fac5ec629089"
+  },
+  "/opt/data/worldwideview/public/logo/logo-icon.jpg": {
+    "mtime": 1778539431.1207104,
+    "hash": "d06894f2691a4aa0f819c3e30afb40c3"
+  }
+}
